@@ -1,0 +1,5 @@
+[info]
+title=Linter for AutoIt, using 'Au3Check.exe -q'
+desc=Linter for CudaLint, adds support for AutoIt lexer, using 'Au3Check.exe -q'
+type=cudatext-plugin
+subdir=cuda_lint_autoit
